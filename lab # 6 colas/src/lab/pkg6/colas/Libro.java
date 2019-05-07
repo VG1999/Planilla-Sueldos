@@ -1,8 +1,10 @@
-package pilas;
+
+package lab.pkg6.colas;
 
 
 public class Libro {
-       private String titulo;
+    
+    private String titulo;
 	private String autor;
 	private String isbn;
         
@@ -11,9 +13,10 @@ public class Libro {
 		this.titulo=titulo;
 		this.autor=autor;
 		this.isbn=isbn;
-}
+                
+   }
         
-           // Procedimientos para insertar y retornar valores o datos
+   // Procedimientos para insertar y retornar valores o datos
     public String getTitulo() {
         return titulo;
     }
