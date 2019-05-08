@@ -1,4 +1,9 @@
+/*PROGRAM QUE ELABORA LAS OPERACIONES ENCOLAR, DESENCOLAR, VACIO, MOSTRAR EN COLAR*/
 
+/*
+* Ester Guamuch
+*0901-17-998
+*/
 package lab.pkg6.colas;
 
 import javax.swing.JOptionPane;
