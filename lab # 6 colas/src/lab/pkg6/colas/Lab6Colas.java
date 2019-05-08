@@ -25,8 +25,8 @@ public class Lab6Colas {
         
      // Menu
      do{
-            
-            iOpc = Integer.parseInt(JOptionPane.showInputDialog("Bienvenido que operacion desea realizar:\n1.Encolar\n2.Mostrar\n3.Desencolar\n4.Esta Vacia\n5.Salir"));
+        
+            iOpc = Integer.parseInt(JOptionPane.showInputDialog("Ester Guamuch\n0901-17-998\n\nBienvenido que operacion desea realizar:\n1.Encolar\n2.Mostrar\n3.Desencolar\n4.Esta Vacia\n5.Salir"));
              
              switch(iOpc){
                  
